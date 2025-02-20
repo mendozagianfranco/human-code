@@ -68,6 +68,16 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
                         -   Passare al prossimo prodotto della lista
         -   RIPETE per tutti i prodotti della lista
         -   FINCHE finisce la lista
+    -   Prima di andare a pagare controllo crocchete Ricky
+        -   SE ci sono le crocchete di Ricky nel carrello
+            -   Andare in cassa a pagare
+        -   ALTRIMENTI
+            -   (RIPETERE PROCEDURA CERCARE PRODOTTO)
+            -   -   Cercare sezione prodotto
+            -   Entrare nella sezione
+                -   Cercare tra gli scafalli
+                    -   SE trovo prodotto
+                        -   Prendere prodotto e metterlo nel carrello
 -   Pagare spesa
     -   Portare il carrello alle casse
         -   Prendere una prodotto
