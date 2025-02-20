@@ -52,6 +52,7 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
     -   Attraversare porta
     -   Chiudere porta
         -   Usare la chiave per chiudere la porta
+        -   Rimettere le chiavi in tasca
     -   Dirigersi verso il supermercato
     -   Entrare nel supermercato
 -   Cercare i prodotti nel supermercato
@@ -91,6 +92,22 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
     -   Prendere sacchetti con la spesa
     -   Uscire dal supermercato
 -   Tornare a casa
+    -   Prendere le chiavi dalla tasca
+    -   Aprire la porta della casa con le chiavi
+    -   Attraversare la porta
+    -   Chiudere la porta
+    -   Portare i sacchetti della spesa sul tavolo
+        -   Prendere un prodotto dal sacchetto
+        -   Mettere a posto il prodotto nel suo posto
+            -   SE il prodotto è fresco
+                -   Metterlo in frigo
+            -   SE il prodotto non è fresco
+                -   Metterlo in dispensa
+        -   SE il prodotto sono le crocchete di Ricky
+            -   Dare da mangiare a Ricky
+                -   Aprire confenzione crocchete
+                -   Versare crocchette nella ciottola di Ricky
+    -   Pulire tavolo dai sacchetti della spesa
 
 ---
 
@@ -112,7 +129,7 @@ Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita 
                 -   SE filo alimentazione è scollegato o messo male
                     -   Collegare filo alla presa della corrente
     -   Accedere computer
-        -(RIPETERE CONTROLLO ALIMENTAZIONE)
+        -   (RIPETERE CONTROLLO ALIMENTAZIONE)
         -   SE non si accende
             -   Controllare alimentazione
                 -   SE filo alimentazione è scollegato o messo male
@@ -155,8 +172,8 @@ Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita 
         -   Buttare la pratica nel cestino
 -   Spegnere Scanner
 -   Andare verso il computer
--   Salvare i fogli scansionati
-    -   Salvare pratica come pdf
-    -   Nominarlo "pratica.pdf"
-    -   Metterlo nella cartella documenti
+    -   Salvare i fogli scansionati
+        -   Salvare pratica come pdf
+        -   Nominarlo "pratica.pdf"
+        -   Metterlo nella cartella documenti
 -   Spegnere Computer
