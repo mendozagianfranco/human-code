@@ -104,6 +104,7 @@ Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita 
 
 -   Prendere la pratica
 -   Andare verso lo scanner
+
     -   Appoggiare la pratica
     -   Accendere scanner
         -   SE non si accende
@@ -121,34 +122,41 @@ Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita 
                 -   Aprire programma sul computer per scansionare
             -   ALTRIMENTI
                 -   Controllare filo collegamento scanner-computer
+
 -   Aprire scanner
--   Prendere la pratica
-
+-   Prendere un foglio dalla pratica
 -   Posizionarlo dentro lo scanner
-
 -   Chiudere scanner
 -   Andare verso il computer
     -   Avviare scansione tramite programma
     -   Aspettare completamento scansione
-    -   Controllare se la pratica è stata scansionata
-        -   SE la pratica è stato scansionata
+    -   Controllare se il documento è stata scansionata
+        -   SE il documento è stato scansionata
             -   Andare verso lo scanner
 -   Aprire scanner
--   Prendere pratica
-    -   Girare la pratica dall'altra parte del foglio
-    -   Riposizionare pratica dentro lo scanner
+-   Prendere il foglio
+    -   Girare il foglio dall'altra facciata
+    -   Riposizionare il foglio dentro lo scanner
 -   (RIPETERE PROCEDURA)
 -   Andare verso il computer
     -   Avviare scansione tramite programma
     -   Aspettare completamento scansione
     -   Controllare se la pratica è stata scansionata
         -   SE la pratica è stato scansionata
-            -   Salvare scansione sul computer
-    -   Spegnere computer
--   Andare verso lo scanner
+            -   Andare verso lo scanner
+-   RIPETERE PROCEDURE FINCHE ho scansionato tutti i fogli della pratica
+
+-   Dopo aver scansionato ultimo foglio
     -   Aprire scanner
-    -   Prendere la pratica
+    -   Prendere il foglio dallo scanner
+    -   Prendere tutti gli altri fogli della pratica
     -   Buttare via la pratica
         -   Strappare pratica
         -   Buttare la pratica nel cestino
 -   Spegnere Scanner
+-   Andare verso il computer
+-   Salvare i fogli scansionati
+    -   Salvare pratica come pdf
+    -   Nominarlo "pratica.pdf"
+    -   Metterlo nella cartella documenti
+-   Spegnere Computer
