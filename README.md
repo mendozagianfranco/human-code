@@ -91,3 +91,57 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
     -   Prendere sacchetti con la spesa
     -   Uscire dal supermercato
 -   Tornare a casa
+
+---
+
+## 2. Scansionare un documento su più fogli fronte-retro
+
+Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi, possibile che nel 2025 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! Ora ci penso io: una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla! L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. Va beh, poco male, almeno sono pochi fogli!
+
+---
+
+### Soluzione
+
+-   Prendere la pratica
+-   Andare verso lo scanner
+    -   Appoggiare la pratica
+    -   Accendere scanner
+        -   SE non si accende
+            -   Controllare alimentazione
+    -   Accedere computer
+        -   Controllare se lo scanner e collegato al computer
+            -   SE è collegato
+                -   Aprire programma sul computer per scansionare
+            -   ALTRIMENTI
+                -   Controllare filo collegamento scanner-computer
+-   Aprire scanner
+-   Prendere la pratica
+
+    -   Metterlo dentro lo scanner
+
+-   Chiudere scanner
+-   Andare verso il computer
+    -   Avviare scansione tramite programma
+    -   Aspettare completamento scansione
+    -   Controllare se la pratica è stata scansionata
+        -   SE la pratica è stato scansionata
+            -   Andare verso lo scanner
+-   Aprire scanner
+-   Prendere pratica
+    -   Girare la pratica
+    -   Rimettere pratica dentro lo scanner
+-   (RIPETERE PROCEDURA)
+-   Andare verso il computer
+    -   Avviare scansione tramite programma
+    -   Aspettare completamento scansione
+    -   Controllare se la pratica è stata scansionata
+        -   SE la pratica è stato scansionata
+            -   Salvare scansione sul computer
+    -   Spegnere computer
+-   Andare verso lo scanner
+    -   Aprire scanner
+    -   Prendere pratica
+    -   Buttare via la pratica
+        -   Strappare pratica
+        -   Buttare nel cestino
+-   Spegnere Scanner
