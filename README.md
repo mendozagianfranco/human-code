@@ -108,7 +108,14 @@ Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita 
     -   Accendere scanner
         -   SE non si accende
             -   Controllare alimentazione
+                -   SE filo alimentazione è scollegato o messo male
+                    -   Collegare filo alla presa della corrente
     -   Accedere computer
+        -(RIPETERE CONTROLLO ALIMENTAZIONE)
+        -   SE non si accende
+            -   Controllare alimentazione
+                -   SE filo alimentazione è scollegato o messo male
+                    -   Collegare filo alla presa della corrente
         -   Controllare se lo scanner e collegato al computer
             -   SE è collegato
                 -   Aprire programma sul computer per scansionare
@@ -117,7 +124,7 @@ Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita 
 -   Aprire scanner
 -   Prendere la pratica
 
-    -   Metterlo dentro lo scanner
+-   Posizionarlo dentro lo scanner
 
 -   Chiudere scanner
 -   Andare verso il computer
@@ -128,8 +135,8 @@ Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita 
             -   Andare verso lo scanner
 -   Aprire scanner
 -   Prendere pratica
-    -   Girare la pratica
-    -   Rimettere pratica dentro lo scanner
+    -   Girare la pratica dall'altra parte del foglio
+    -   Riposizionare pratica dentro lo scanner
 -   (RIPETERE PROCEDURA)
 -   Andare verso il computer
     -   Avviare scansione tramite programma
@@ -140,8 +147,8 @@ Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita 
     -   Spegnere computer
 -   Andare verso lo scanner
     -   Aprire scanner
-    -   Prendere pratica
+    -   Prendere la pratica
     -   Buttare via la pratica
         -   Strappare pratica
-        -   Buttare nel cestino
+        -   Buttare la pratica nel cestino
 -   Spegnere Scanner
